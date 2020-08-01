@@ -1,0 +1,4 @@
+#discard all files like below
+*.class
+#discard all files from this folder
+*/project_plan/*
